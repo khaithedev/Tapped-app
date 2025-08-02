@@ -36,10 +36,14 @@ Users can create and publish their own dares
 Scrollable feed of dare videos; 5-star voting system
 🏆 Revenue Challenge
 Top-rated creator each month gets a percentage of app income
+
+
 🧠 Notes
     •    Focused on Gen Z energy: fast, chaotic, competitive, and clout-driven
     •    Strong potential for virality and creator culture integration
     •    Monetization through in-app purchases, subscriptions, and monthly creator reward pool
+
+    
 ✅ What’s Done Today
     •    ✅ Locked in concept + differentiator
     •    ✅ Defined core features
