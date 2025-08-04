@@ -49,3 +49,12 @@ Top-rated creator each month gets a percentage of app income
     •    ✅ Defined core features
     •    ✅ Planned monetization and SLC strategy
     •    ✅ Created repo & README
+    
+    🗓️ Dev Log – Day 2
+
+Focus: Finalized target audience, refined app idea, and mapped core user flows.
+Progress:
+    •    Defined app features & purpose
+    •    Created detailed user flowcharts (Creator Mode + Viewer Mode)
+    •    Identified key screens/pages
+    •    Researched relevant tutorials for beginner full-stack setup
